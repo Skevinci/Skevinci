@@ -10,7 +10,7 @@
 
 <ins>An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning</ins> @IMECE 2023, paper
 
-[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) In submission
+[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ ICRA 2024, paper
 
 <ins>Adaptive Robot Motion Planning in Dynamic Environment Based on Inverse Kinematics and Bayesian Optimization-Enhanced Reinforcement Learning.</ins> In submission
 
