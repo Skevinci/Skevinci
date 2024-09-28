@@ -5,6 +5,7 @@
 🔭 I’m currently working on: 🤖**Robot Manipulation/Navigation**, 🌱**LLM**, and ✨**Human-robot Collaboration**
 
 **⚡Selected works:**
+
 [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) in submission
 
 [Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ ICRA 2024, paper
