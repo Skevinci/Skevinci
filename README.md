@@ -2,17 +2,16 @@
 
 🏫 @Umich Undergraduate @CSE | @SJTU Undergraduate @ECE
 
-🔭 I’m currently working on: 🤖**Robotics**, 🌱**Reinforcement Learning**, and ✨**Foundation Models**
+🔭 I’m currently working on: 🤖**Robot Manipulation/Navigation**, 🌱**LLM**, and ✨**Human-robot Collaboration**
 
 **⚡Selected works:**
+[Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) in submission
+
+[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ ICRA 2024, paper
 
 <ins>Exploring LLM in Intention Modeling for Human-Robot Collaboration</ins> @IROS 2023, late breaking results
 
 <ins>An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning</ins> @IMECE 2023, paper
-
-[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ ICRA 2024, paper
-
-<ins>Adaptive Robot Motion Planning in Dynamic Environment Based on Inverse Kinematics and Bayesian Optimization-Enhanced Reinforcement Learning.</ins> In submission
 
 ⛏️More ongoing ...
 
