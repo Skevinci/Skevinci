@@ -2,7 +2,7 @@
 
 🏫 @Umich Undergraduate @CSE | @SJTU Undergraduate @ECE
 
-🔭 I’m currently working on: 🤖**Robot Manipulation/Navigation**, 🌱**LLM**, and ✨**Human-robot Collaboration**
+🔭 I’m currently working on: 🤖**Robot Learning, Robot Manipulation/Navigation**, 🌱**LLM**, and ✨**Human-robot Collaboration**
 
 **⚡Selected works:**
 
