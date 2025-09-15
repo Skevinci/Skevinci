@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=586AF7&background=FFFFFF00&random=false&width=435&lines=Hi%F0%9F%91%8B%2C+My+name+is+Sikai+(Skevin)+Li!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
-🏫 @UNC-Chapel Hill PhD Candidate @CS | @Umich Undergraduate @CSE | @SJTU Undergraduate @ECE
+🏫 @UNC-Chapel Hill PhD Student @CS | @Umich Undergraduate @CSE | @SJTU Undergraduate @ECE
 
 🔭 I’m currently working on: 🤖**Robot Learning, Robot Manipulation/Navigation, Foundation Models** and 🌱**LLM**
 
