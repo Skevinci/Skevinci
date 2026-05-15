@@ -2,7 +2,7 @@
 
 🏫 @UNC-Chapel Hill PhD Student @CS | @Umich Undergraduate @CSE | @SJTU Undergraduate @ECE
 
-🔭 I’m currently working on: 🤖**Robot Learning, Robot Manipulation/Navigation, Foundation Models** and 🌱**LLM**
+🔭 I’m currently working on: 🤖**Humanoid Dexterous Loco-Manipulation, Robot Learning and Foundation Models**
 
 **⚡Selected works:**
 
