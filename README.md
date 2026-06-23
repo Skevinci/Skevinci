@@ -5,16 +5,13 @@
 🔭 I’m currently working on: 🤖**Humanoid Dexterous Loco-Manipulation, Robot Learning and Foundation Models**
 
 **⚡Selected works:**
+[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680), under review
 
 [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) @ICRA 2025, paper
 
 [Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ICRA 2024, paper
 
-<ins>Exploring LLM in Intention Modeling for Human-Robot Collaboration</ins> @IROS 2023, late breaking results
-
 [An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2023/87608/V003T03A079/1195595) @IMECE 2023, paper
-
-[Adaptive Robot Motion Planning for Smart Manufacturing Based on Digital Twin and Bayesian Optimization-Enhanced Reinforcement Learning](https://asmedigitalcollection.asme.org/manufacturingscience/article/doi/10.1115/1.4067616/1211190/Adaptive-Robot-Motion-Planning-for-Smart) @Journal of Manufacturing Science and Engineering, 2024
 
 ⛏️More ongoing ...
 
