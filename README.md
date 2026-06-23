@@ -5,6 +5,7 @@
 🔭 I’m currently working on: 🤖**Humanoid Dexterous Loco-Manipulation, Robot Learning and Foundation Models**
 
 **⚡Selected works:**
+
 [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680), under review
 
 [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) @ICRA 2025, paper
