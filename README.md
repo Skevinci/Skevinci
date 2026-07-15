@@ -6,7 +6,7 @@
 
 **⚡Selected works:**
 
-[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680), @RSS 2026 WCBM Workshop
+[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680) @RSS 2026 WCBM Workshop
 
 [Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) @ICRA 2025
 
