@@ -6,13 +6,13 @@
 
 **⚡Selected works:**
 
-[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680), under review
+[CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680), @RSS 2026 WCBM Workshop
 
-[Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) @ICRA 2025, paper
+[Tactile Functasets: Neural Implicit Representations of Tactile Datasets](https://arxiv.org/abs/2409.14592) @ICRA 2025
 
-[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ICRA 2024, paper
+[Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation](https://arxiv.org/abs/2310.07968) @ICRA 2024
 
-[An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2023/87608/V003T03A079/1195595) @IMECE 2023, paper
+[An Adaptive Path Planning Approach for Digital Twin-Enabled Robot Arm Based on Inverse Kinematics and Deep Reinforcement Learning](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2023/87608/V003T03A079/1195595) @IMECE 2023
 
 ⛏️More ongoing ...
 
